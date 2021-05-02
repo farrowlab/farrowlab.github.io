@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+rank: 1
+---
 
-You can use the [editor on GitHub](https://github.com/farrowlab/farrowlab.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Welcome!
+This is the farrowlab wiki. For more info about our research, publications and the people in the lab see [farrowlab.com](https://farrowlab.com) or [nerf.be](https://nerf.be).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This wiki is inspired by similar documents from [Mariam Aly](https://osf.io/mdh87/wiki/home/), [Trina MacMahon](https://d1uqjtzsuwlnsf.cloudfront.net/wp-content/uploads/sites/163/2016/11/McMahon_UW_Compact_Example.pdf), [Bray Voytek](https://voyteklab.com/philosophy), [anneurai.net](https://anneurai.net). It's continuously adapting.
 
-### Markdown
+### Have a question?
+![Decision tree](https://github.com/farrowlab/farrowlab.github.io/blob/main/WikiWorkFlow.png)
+_Adapted from [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf)_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Contributing to this wiki
+1. Fork the [repository](https://github.com/farrowlab/lab_wiki).
+2. Clone your own fork to local
+3. Edit existing `.md` files, or create a new one with the following header:
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/farrowlab/farrowlab.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--- 
+layout: default
+title: ???
+rank: 1
+---
+```
+4. Add, commit and push to your fork
+5. Create a PR: go to Pull Requests / New / Compare across forks and select your fork. Explain what you've added, and
+ I'll incorporate your edits in the wiki.

@@ -10,7 +10,7 @@ This is the farrowlab wiki. For more info about our research, publications and t
 This wiki is inspired by similar documents from [Mariam Aly](https://osf.io/mdh87/wiki/home/), [Trina MacMahon](https://d1uqjtzsuwlnsf.cloudfront.net/wp-content/uploads/sites/163/2016/11/McMahon_UW_Compact_Example.pdf), [Bray Voytek](https://voyteklab.com/philosophy), [Anne Urai](https://anneurai.net). It's continuously adapting.
 
 ### Have a question?
-![Decision tree](https://github.com/farrowlab/farrowlab.github.io/blob/main/WikiWorkFlow.png)
+![Decision tree](https://github.com/farrowlab/farrowlab.github.io/blob/main/WikiWorkFlow.png?raw=true)
 _Adapted from [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf)_
 
 ### Contributing to this wiki

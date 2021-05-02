@@ -4,7 +4,7 @@ title: Home
 rank: 1
 ---
 
-### Welcome!
+## Welcome!
 This is the farrowlab wiki. For more info about our research, publications and the people in the lab see [farrowlab.com](https://farrowlab.com) or [nerf.be](https://nerf.be).
 
 This wiki is inspired by similar documents from [Mariam Aly](https://osf.io/mdh87/wiki/home/), [Trina MacMahon](https://d1uqjtzsuwlnsf.cloudfront.net/wp-content/uploads/sites/163/2016/11/McMahon_UW_Compact_Example.pdf), [Bray Voytek](https://voyteklab.com/philosophy), [anneurai.net](https://anneurai.net). It's continuously adapting.
